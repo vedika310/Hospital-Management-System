@@ -23,7 +23,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vedika310/Hospital-Management-System.git
    ```
 
 2. **Setup MySQL Database**:
@@ -72,5 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or issues, please contact:
 
-- **Email**: zahidrahimoon22@gmail.com
-- **LinkedIn**: [Zahid Rahimoon](https://www.linkedin.com/in/zahidrahimoon/)
+- **Email**: vedikarelwani079@gmail.com
+- **LinkedIn**: [Vedika Relwani](https://www.linkedin.com/in/vedika-relwani-322a7b249/?originalSubdomain=in)
